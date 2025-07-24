@@ -1,0 +1,20 @@
+body {
+  background: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#tetris-container {
+  display: inline-block;
+  background: #222;
+  padding: 10px;
+  border: 2px solid #fff;
+}
+
+canvas {
+  background: #000;
+  display: block;
+  margin: 0 auto;
+}
